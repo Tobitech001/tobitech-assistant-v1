@@ -1,0 +1,20 @@
+{
+  "name": "tobitech-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.6.0",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "framer-motion": "^10.16.1",
+    "next": "^14.0.4",
+    "openai": "^4.23.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
